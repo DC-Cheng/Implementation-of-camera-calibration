@@ -5,7 +5,7 @@
 2. achieving intrinsic and extrinsic parameters of a camera output.
 3. understandinf basic knowledge of optical distortion.
 
-# Theroy #
+# Theory #
 <br>![Image0](https://docs.opencv.org/2.4/_images/math/363c6d531e851a1eb934e7d6f875d593e2dc6f37.png)
 <br>![Image1](https://docs.opencv.org/2.4/_images/math/803e522ec37bc5bc609c0ef08373a350a819fc15.png)
 <br>![Image2](https://docs.opencv.org/2.4/_images/math/f51a5ba02487486308c29bef720f3186d18abac6.png)
